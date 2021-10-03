@@ -1,0 +1,14 @@
+#im1 {
+    border-radius: 60px;
+}
+.head {
+    text-shadow: 2px 2px 2px green;
+    color: red;
+}
+.proj {
+    border: 1px solid green;
+}
+a,a:hover {
+    color: white;
+    text-decoration: none;
+}

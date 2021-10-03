@@ -1,0 +1,21 @@
+.nav {
+    color: white;
+    display: flex;
+    justify-content: space-around;
+}
+a,a:hover {
+    color: white;
+    text-decoration: none;
+}
+body {
+    background-image: url("pink_aesthetic-wallpaper-1366x768.jpg");
+}
+.first {
+    color: white;
+}
+.btn:hover {
+    background-color:royalblue;
+}
+.btn {
+    border-radius: 5px;
+}
